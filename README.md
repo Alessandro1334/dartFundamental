@@ -1,2 +1,2 @@
 # dartFundamental
-Learn dart fundamental
+Learn about dart fundamental.
